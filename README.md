@@ -2,7 +2,7 @@
 
 A calculator project built with React.
 
-![Calculator Screenshot]()
+![Calculator Screenshot](https://raw.githubusercontent.com/Ricoledan/react-calculator/main/public/heroimg.png)
 
 # Getting Started with Create React App
 
